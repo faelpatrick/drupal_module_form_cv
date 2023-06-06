@@ -1,0 +1,7 @@
+cvs_form.cvsform:
+  path: "/cvsform"
+  defaults:
+    _form: 'Drupal\cvs_form\Form\Form'
+    _title: "CVS Form"
+  requirements:
+    _permission: "access content"
